@@ -1,2 +1,0 @@
-# clinicdocs
-MassageClinicPro Blog Documentation
